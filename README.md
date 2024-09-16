@@ -1,0 +1,1 @@
+this was a new project with empty files that i push tha a i created a my first commmit for, then i push my VS code to Github and then i added a file example.html on github.com to be able to demonstrate how to pull files from Github. All changes were made using the terminal executiom code. 
